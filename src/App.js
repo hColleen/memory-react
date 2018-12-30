@@ -107,3 +107,5 @@ class App extends PureComponent {
 }
 
 export default App;
+
+//tutorial from https://medium.com/the-andela-way/how-to-build-a-card-match-up-game-using-react-2567f9dd762
