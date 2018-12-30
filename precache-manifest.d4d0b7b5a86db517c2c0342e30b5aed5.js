@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/memory-react/static/css/main.5c7b2d96.chunk.css"
   },
   {
-    "revision": "17bfc2c94763666ce858a1d34cd5c9a0",
+    "revision": "959254789a090148b19cbfe045722ef8",
     "url": "/memory-react/index.html"
   }
 ];
