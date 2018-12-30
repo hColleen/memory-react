@@ -16,7 +16,7 @@ class App extends PureComponent {
   };
 
   static duplicateCard = () => {
-    return [0,1,2,3,4,5,6,7].reduce((preValue, current, index, array) => {
+    return ["fa-database", "fa-desktop", "fa-keyboard", "fa-microchip", "fa-save", "fa-laptop", "fa-server", "fa-mobile-alt"].reduce((preValue, current, index, array) => {
       return preValue.concat([current, current])
     },[]);
   };

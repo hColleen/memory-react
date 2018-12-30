@@ -8,7 +8,7 @@ const Card = ({ id, isFlipped, handleClick, cardNumber }) => (
     </button>
 
     <button id={id} className={`card card-back ${cardNumber !== -1 ? "" : "hide-card"}`} onClick={handleClick} key="back">
-      { cardNumber }
+      <i className ={`fas ${ cardNumber }`}></i>
     </button>
   </ReactCardFlip>
 );
