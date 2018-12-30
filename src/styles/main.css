@@ -66,6 +66,9 @@ body {
   
   .card-front {
     background-color: #999999;
+    background-image: url('../brain-solid.svg');
+    background-repeat: no-repeat;
+    background-position: center;
     box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
   }
   
