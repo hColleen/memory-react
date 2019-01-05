@@ -32,3 +32,7 @@ To use and/or develop this project on your own system:
 
 ## Dependancies
 1. FontAwesome
+
+## Todo
+1. Add timer
+2. Add score modal
